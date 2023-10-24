@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="http://localhost/index.php/feed/?simply_static_page=1719" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>GitProz</description>
+	<lastBuildDate>Tue, 24 Oct 2023 15:54:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Step 0 : Create GitHub Account</title>
+		<link>/index.php/2020/08/18/elementum-curabitur-vitaenunc-sed-velit/</link>
+					<comments>/index.php/2020/08/18/elementum-curabitur-vitaenunc-sed-velit/#respond</comments>
+		
+		<dc:creator><![CDATA[root123]]></dc:creator>
+		<pubDate>Tue, 18 Aug 2020 16:31:29 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Useful]]></category>
+		<guid isPermaLink="false">https://demo.creativethemes.com/blocksy/business/?p=555</guid>
+
+					<description><![CDATA[Before diving deep into the world of Git, it&#8217;s essential to have a GitHub account Congratulations! 🎉 You now have a GitHub account and are ready to embark on your journey into the world of code collaboration and version control.]]></description>
+										<content:encoded><![CDATA[
+<p>Before diving deep into the world of Git, it&#8217;s essential to have a GitHub account</p>
+
+
+
+<ol>
+<li><strong>Visit GitHub&#8217;s Official Website</strong>:
+<ul>
+<li>Open your preferred web browser and navigate to <a href="https://github.com/">GitHub&#8217;s official website</a>.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Sign Up</strong>:
+<ul>
+<li>On the GitHub homepage, you&#8217;ll see a sign-up form. Alternatively, you can click on the &#8220;Sign up&#8221; button usually located at the top right corner of the page.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Enter Your Details</strong>:
+<ul>
+<li><strong>Username</strong>: Choose a unique username. This will be part of your GitHub profile URL (e.g., <code>https://github.com/YourUsername</code>).</li>
+
+
+
+<li><strong>Email Address</strong>: Enter a valid email address. You&#8217;ll need to verify this email later, so make sure it&#8217;s accessible.</li>
+
+
+
+<li><strong>Password</strong>: Choose a strong password. Ensure it&#8217;s at least 15 characters OR at least 8 characters including a number and a lowercase letter.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Choose Your Plan</strong>:
+<ul>
+<li>GitHub offers both free and paid plans. For beginners, the free plan is more than sufficient. Select the plan that best suits your needs.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Complete the Setup</strong>:
+<ul>
+<li>Answer a few quick questions about your experience and what you&#8217;re planning to use GitHub for, or you can skip this step.</li>
+
+
+
+<li>Verify your email address. GitHub will send a verification email to the address you provided. Click on the verification link in that email.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Personalize Your Account</strong> (Optional):
+<ul>
+<li>Once your account is set up, you can add more details to your profile, such as a profile picture, bio, and website. To do this, click on your profile icon at the top right, select &#8220;Your profile&#8221;, and then click on &#8220;Edit profile&#8221;.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Install GitHub Desktop</strong> (Optional):
+<ul>
+<li>If you prefer a graphical user interface over command-line interaction, consider downloading <a href="https://desktop.github.com/">GitHub Desktop</a>. This application provides an intuitive way to manage your repositories.</li>
+</ul>
+</li>
+</ol>
+
+
+
+<p><strong>Congratulations!</strong> 🎉 You now have a GitHub account and are ready to embark on your journey into the world of code collaboration and version control.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2020/08/18/elementum-curabitur-vitaenunc-sed-velit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
